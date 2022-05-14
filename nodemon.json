@@ -1,0 +1,10 @@
+{
+    "exec": "tsc ./app.ts",
+    "ext": "ts",
+    "ignore": [
+        ".git",
+        ".gitigniore",
+        "node_modules/**/node_modules"
+    ],
+    "verbose": true
+}

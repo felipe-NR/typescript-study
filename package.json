@@ -1,0 +1,17 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "tsg": "nodemon",
+    "start": "lite-server"
+  },
+  "author": "Felipe Neves",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.16"
+  },
+  "repository": "git@github.com:felipe-NR/typescript-study.git"
+}
